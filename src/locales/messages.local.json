@@ -1,0 +1,18 @@
+{
+    "server": {
+        "serverUp": "[Server]=> Running on port::",
+        "serverDown": "[Server]=> Stop",
+        "serverError": "[Server]=> Error:: "
+    },
+    "sockets": {
+        "socketsUp": "[Sockets]=> Ok",
+        "socketsDown": "[Sockets]=> Down",
+        "socketsError": "[Sockets] => Error::"
+    },
+    "events": {
+        "eventsLoaded": "[Events]=> Loaded",
+        "eventsExecution": "[Events]=> Execution",
+        "eventsError": "[Events] => Error::"
+    },
+    "error": "[ExecutionTimeError]=> please read error for more details"
+}

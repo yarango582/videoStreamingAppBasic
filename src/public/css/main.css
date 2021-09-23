@@ -1,0 +1,57 @@
+.title {
+    text-align: center;
+}
+.container-video {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.preview {
+    background: #5e5e5e;
+    margin: 5px;
+    border-radius: 3px;
+    width: 200px;
+    height: 200px;
+}
+
+.video {
+    width: 400px;
+    height: 400px;
+    background: #555;
+    border-radius: 3px;
+}
+
+.container-controls {
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    margin: 3px;
+    padding: 5px 10px;
+    border: 0;
+    background: rgba(90, 201, 186, 0.6);
+    border-radius: 6px;
+}
+
+.container-status {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#status {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.video-visualizer {
+    width: 400px;
+    height: 400px;
+}
