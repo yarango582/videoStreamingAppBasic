@@ -1,5 +1,6 @@
 # videoStreamingAppBasic
 Sockets, Nodejs
 
-`/visualizer.html -> visualiza la camara que se encuentra emitiendo
-/index.html -> permite emitir en directo`
+` * https://streamingappbasic.herokuapp.com/ -> visualiza la camara que se encuentra emitiendo
+  * https://streamingappbasic.herokuapp.com/visualizer.html -> permite emitir en directo 
+`
